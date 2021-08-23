@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "pOSDrSXgnDLRuPB2andvbp6cOHxvJwvZUbAsiV9ENjeLaVC1ZJJpa/HEGOB6VXXbV1Y+P8vXQgG60VFIDH5BLw==",
+  "dgSpecHash": "I0E9LaxsXvAFgc2VMaWtmSP+Zt9I0abAQ+AMgX7O9FC6ASgTlIP4cE7qL0G/QKachKljN5ku9imVaqLBIKuL7Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Terry\\source\\repos\\inlamning3\\inlamning3\\inlamning3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Terry\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\Terry\\.nuget\\packages\\microsoft.data.sqlite\\5.0.9\\microsoft.data.sqlite.5.0.9.nupkg.sha512",
+    "C:\\Users\\Terry\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.9\\microsoft.data.sqlite.core.5.0.9.nupkg.sha512",
+    "C:\\Users\\Terry\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Terry\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Terry\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\Terry\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Terry\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\Terry\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Terry\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Dapper;
 
 namespace inlamning3
 {
@@ -18,6 +19,9 @@ namespace inlamning3
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+        
+            var repo = new SqliteButikRepository();
+            repo.PrintVersion();
         }
     }
 }

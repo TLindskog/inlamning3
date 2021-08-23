@@ -1,0 +1,16 @@
+C:\Users\Terry\source\repos\inlamning3\inlamning3\bin\Debug\netcoreapp3.1\inlamning3.exe
+C:\Users\Terry\source\repos\inlamning3\inlamning3\bin\Debug\netcoreapp3.1\inlamning3.deps.json
+C:\Users\Terry\source\repos\inlamning3\inlamning3\bin\Debug\netcoreapp3.1\inlamning3.runtimeconfig.json
+C:\Users\Terry\source\repos\inlamning3\inlamning3\bin\Debug\netcoreapp3.1\inlamning3.runtimeconfig.dev.json
+C:\Users\Terry\source\repos\inlamning3\inlamning3\bin\Debug\netcoreapp3.1\inlamning3.dll
+C:\Users\Terry\source\repos\inlamning3\inlamning3\bin\Debug\netcoreapp3.1\inlamning3.pdb
+C:\Users\Terry\source\repos\inlamning3\inlamning3\obj\Debug\netcoreapp3.1\inlamning3.csproj.AssemblyReference.cache
+C:\Users\Terry\source\repos\inlamning3\inlamning3\obj\Debug\netcoreapp3.1\inlamning3.Form1.resources
+C:\Users\Terry\source\repos\inlamning3\inlamning3\obj\Debug\netcoreapp3.1\inlamning3.csproj.GenerateResource.cache
+C:\Users\Terry\source\repos\inlamning3\inlamning3\obj\Debug\netcoreapp3.1\inlamning3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terry\source\repos\inlamning3\inlamning3\obj\Debug\netcoreapp3.1\inlamning3.AssemblyInfoInputs.cache
+C:\Users\Terry\source\repos\inlamning3\inlamning3\obj\Debug\netcoreapp3.1\inlamning3.AssemblyInfo.cs
+C:\Users\Terry\source\repos\inlamning3\inlamning3\obj\Debug\netcoreapp3.1\inlamning3.csproj.CoreCompileInputs.cache
+C:\Users\Terry\source\repos\inlamning3\inlamning3\obj\Debug\netcoreapp3.1\inlamning3.dll
+C:\Users\Terry\source\repos\inlamning3\inlamning3\obj\Debug\netcoreapp3.1\inlamning3.pdb
+C:\Users\Terry\source\repos\inlamning3\inlamning3\obj\Debug\netcoreapp3.1\inlamning3.genruntimeconfig.cache
